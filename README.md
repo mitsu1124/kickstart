@@ -1,0 +1,1 @@
+Try creating kickstarter project on Ethereum.
